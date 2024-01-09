@@ -13,7 +13,7 @@
 
  <h3>what the website will talk about</h3>
     <p1>
-        the websit will incluede the history of the nba,who won the legeue each year 
+        The websit will incluede the history of the nba,who won the legeue each year 
         and information about the who is the condenders and why in my opinion and also sum more teams that i just like
     </p1>
 
