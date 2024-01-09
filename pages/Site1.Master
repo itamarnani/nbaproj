@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="newnbaproject.NewFolder1.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../css/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="divsargel">
+          <ul>
+              <li id="home"><a href="home%20page%20.aspx">home page </a> </li>
+ <li id="info"> <a href="nbainfo.aspx"> information</a></li>
+ <li id="log in"><a href="login.aspx">login</a></li>
+ <li id="sign up"><a href="sign%20up.aspx">sign up</a> </li>
+ <li id="winners"> <a href="the%20winners%20in%20each%20year.aspx">the winners </a></li>
+<li id="denver"><a href="denver.aspx">denver</a></li>
+ <li id="okcthunder"><a href="okc%20thunder.aspx">okc thunder</a></li>
+  <li id="logout"><a href="logout.aspx">logout</a></li>
+ <li if="manager"><a href="managerpage.aspx">managerpage</a></li>
+          </ul>
+    </div>
+    
+       
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+       
+  
+</body>
+</html>

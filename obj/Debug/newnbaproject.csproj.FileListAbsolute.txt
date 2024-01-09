@@ -1,0 +1,177 @@
+E:\עבודת כיתה להגשה\nbaproject\bin\newnbaproject.dll.config
+E:\עבודת כיתה להגשה\nbaproject\bin\newnbaproject.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\newnbaproject.pdb
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\csc.exe
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\csc.exe.config
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\csc.rsp
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\csi.exe
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\csi.exe.config
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\csi.rsp
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\Microsoft.Managed.Core.targets
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.AppContext.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Collections.Immutable.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Console.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Globalization.Calendars.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.IO.Compression.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.IO.FileSystem.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Net.Http.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Net.Sockets.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Reflection.Metadata.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.ValueTuple.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Xml.XPath.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\vbc.exe
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\vbc.exe.config
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\vbc.rsp
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\VBCSCompiler.exe
+E:\עבודת כיתה להגשה\nbaproject\bin\roslyn\VBCSCompiler.exe.config
+E:\עבודת כיתה להגשה\nbaproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\עבודת כיתה להגשה\nbaproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\עבודת כיתה להגשה\nbaproject\obj\Debug\newnbaproject.csproj.AssemblyReference.cache
+E:\עבודת כיתה להגשה\nbaproject\obj\Debug\newnbaproject.csproj.CoreCompileInputs.cache
+E:\עבודת כיתה להגשה\nbaproject\obj\Debug\newnbaproject.csproj.CopyComplete
+E:\עבודת כיתה להגשה\nbaproject\obj\Debug\newnbaproject.dll
+E:\עבודת כיתה להגשה\nbaproject\obj\Debug\newnbaproject.pdb
+E:\school\nbaproject\bin\newnbaproject.dll.config
+E:\school\nbaproject\bin\newnbaproject.dll
+E:\school\nbaproject\bin\newnbaproject.pdb
+E:\school\nbaproject\bin\roslyn\csc.exe
+E:\school\nbaproject\bin\roslyn\csc.exe.config
+E:\school\nbaproject\bin\roslyn\csc.rsp
+E:\school\nbaproject\bin\roslyn\csi.exe
+E:\school\nbaproject\bin\roslyn\csi.exe.config
+E:\school\nbaproject\bin\roslyn\csi.rsp
+E:\school\nbaproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\school\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\school\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\school\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\school\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\school\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\school\nbaproject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\school\nbaproject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\school\nbaproject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\school\nbaproject\bin\roslyn\Microsoft.Managed.Core.targets
+E:\school\nbaproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\school\nbaproject\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\school\nbaproject\bin\roslyn\System.AppContext.dll
+E:\school\nbaproject\bin\roslyn\System.Collections.Immutable.dll
+E:\school\nbaproject\bin\roslyn\System.Console.dll
+E:\school\nbaproject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\school\nbaproject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\school\nbaproject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\school\nbaproject\bin\roslyn\System.Globalization.Calendars.dll
+E:\school\nbaproject\bin\roslyn\System.IO.Compression.dll
+E:\school\nbaproject\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\school\nbaproject\bin\roslyn\System.IO.FileSystem.dll
+E:\school\nbaproject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\school\nbaproject\bin\roslyn\System.Net.Http.dll
+E:\school\nbaproject\bin\roslyn\System.Net.Sockets.dll
+E:\school\nbaproject\bin\roslyn\System.Reflection.Metadata.dll
+E:\school\nbaproject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\school\nbaproject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\school\nbaproject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\school\nbaproject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\school\nbaproject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\school\nbaproject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\school\nbaproject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\school\nbaproject\bin\roslyn\System.ValueTuple.dll
+E:\school\nbaproject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\school\nbaproject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\school\nbaproject\bin\roslyn\System.Xml.XPath.dll
+E:\school\nbaproject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\school\nbaproject\bin\roslyn\vbc.exe
+E:\school\nbaproject\bin\roslyn\vbc.exe.config
+E:\school\nbaproject\bin\roslyn\vbc.rsp
+E:\school\nbaproject\bin\roslyn\VBCSCompiler.exe
+E:\school\nbaproject\bin\roslyn\VBCSCompiler.exe.config
+E:\school\nbaproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\school\nbaproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\school\nbaproject\obj\Debug\newnbaproject.csproj.AssemblyReference.cache
+E:\school\nbaproject\obj\Debug\newnbaproject.csproj.CoreCompileInputs.cache
+E:\school\nbaproject\obj\Debug\newnbaproject.csproj.CopyComplete
+E:\school\nbaproject\obj\Debug\newnbaproject.dll
+E:\school\nbaproject\obj\Debug\newnbaproject.pdb
+C:\nbaproject\bin\newnbaproject.dll.config
+C:\nbaproject\bin\newnbaproject.dll
+C:\nbaproject\bin\newnbaproject.pdb
+C:\nbaproject\bin\roslyn\csc.exe
+C:\nbaproject\bin\roslyn\csc.exe.config
+C:\nbaproject\bin\roslyn\csc.rsp
+C:\nbaproject\bin\roslyn\csi.exe
+C:\nbaproject\bin\roslyn\csi.exe.config
+C:\nbaproject\bin\roslyn\csi.rsp
+C:\nbaproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\nbaproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\nbaproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\nbaproject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\nbaproject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\nbaproject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\nbaproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\nbaproject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\nbaproject\bin\roslyn\System.AppContext.dll
+C:\nbaproject\bin\roslyn\System.Collections.Immutable.dll
+C:\nbaproject\bin\roslyn\System.Console.dll
+C:\nbaproject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\nbaproject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\nbaproject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\nbaproject\bin\roslyn\System.Globalization.Calendars.dll
+C:\nbaproject\bin\roslyn\System.IO.Compression.dll
+C:\nbaproject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\nbaproject\bin\roslyn\System.IO.FileSystem.dll
+C:\nbaproject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\nbaproject\bin\roslyn\System.Net.Http.dll
+C:\nbaproject\bin\roslyn\System.Net.Sockets.dll
+C:\nbaproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\nbaproject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\nbaproject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\nbaproject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\nbaproject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\nbaproject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\nbaproject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\nbaproject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\nbaproject\bin\roslyn\System.ValueTuple.dll
+C:\nbaproject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\nbaproject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\nbaproject\bin\roslyn\System.Xml.XPath.dll
+C:\nbaproject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\nbaproject\bin\roslyn\vbc.exe
+C:\nbaproject\bin\roslyn\vbc.exe.config
+C:\nbaproject\bin\roslyn\vbc.rsp
+C:\nbaproject\bin\roslyn\VBCSCompiler.exe
+C:\nbaproject\bin\roslyn\VBCSCompiler.exe.config
+C:\nbaproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\nbaproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\nbaproject\obj\Debug\newnbaproject.csproj.AssemblyReference.cache
+C:\nbaproject\obj\Debug\newnbaproject.csproj.CoreCompileInputs.cache
+C:\nbaproject\obj\Debug\newnbaproject.csproj.CopyComplete
+C:\nbaproject\obj\Debug\newnbaproject.dll
+C:\nbaproject\obj\Debug\newnbaproject.pdb
