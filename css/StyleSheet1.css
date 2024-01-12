@@ -78,5 +78,34 @@ li {
             color: white;
         }
 
-#tableform {
+#tableform{
+   width:700px;
+   height:550px;
 }
+#login_th{
+    font-size:60px;
+    background-color:white;
+    
+}
+#divform{
+   padding-top:9em;
+   padding-left:30em;
+   
+}
+h5{
+    font-size: 60px;
+    color: #c97e0c;
+    text-align:center;
+}
+#username{
+    
+}
+#password{
+
+}
+h4{
+    font-size: 60px;
+    color:navy;
+    text-align:center;
+}
+    

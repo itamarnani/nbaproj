@@ -74,6 +74,10 @@
     <Content Include="pages\the winners in each year.aspx" />
     <Content Include="pages\sign up.aspx" />
     <Content Include="pages\logout.aspx" />
+    <Content Include="pages\denver.aspx" />
+    <Content Include="pages\managerpage.aspx" />
+    <Content Include="pages\okc thunder.aspx" />
+    <Content Include="pictures\Denver_Nuggets.svg.png" />
     <Content Include="pictures\p1.png" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -126,6 +130,27 @@
     </Compile>
     <Compile Include="pages\logout.aspx.designer.cs">
       <DependentUpon>logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\denver.aspx.cs">
+      <DependentUpon>denver.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\denver.aspx.designer.cs">
+      <DependentUpon>denver.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\managerpage.aspx.cs">
+      <DependentUpon>managerpage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\managerpage.aspx.designer.cs">
+      <DependentUpon>managerpage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\okc thunder.aspx.cs">
+      <DependentUpon>okc thunder.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\okc thunder.aspx.designer.cs">
+      <DependentUpon>okc thunder.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
