@@ -83,8 +83,10 @@ li {
    height:550px;
 }
 #login_th{
-    font-size:60px;
+    font-size:70px;
     background-color:white;
+    width:400px;
+    height:0px;
     
 }
 #divform{
@@ -97,15 +99,37 @@ h5{
     color: #c97e0c;
     text-align:center;
 }
-#username{
-    
-}
-#password{
-
-}
 h4{
     font-size: 60px;
     color:navy;
     text-align:center;
 }
+  #password{
+       width:400px;
+       height:60px;
+   }
+#username {
+    width: 400px;
+    height: 60px;
+}
+#tableform_signup {
+    width: 700px;
+    height: 750px;
+}
+#confirm_password{
+    width:300px;
+    height:40px;
     
+}
+#password_signup {
+    width: 300px;
+    height: 40px;
+}
+#username_signup {
+    width: 300px;
+    height: 40px;
+}
+
+
+
+
