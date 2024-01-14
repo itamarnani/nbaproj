@@ -13,7 +13,7 @@
     <td><input type="password" id="password_signup" name="password_signup" placeholder="password" /></td></tr>
                              <tr>
 <td><input type="password" id="confirm_password" name="confirm_password" placeholder="confirm password" /></td></tr>
-     <tr> <td>   <Select name="your location">
+     <tr> <td>   <Select name=" location" id="location">
     <option value=“israel> israel</option>
    <option value=“usa> usa</option>
    <option value=“europe>europe </option>
@@ -24,8 +24,10 @@
               <tr><td>enter your gender</td></tr>
               <tr><td><input type="radio" name="gender" value="fenale" />female
                   <input type="radio" name="gender" value="male" />male
-                  <input type="radio" name="gender" value="othergendere" />other
+                  <input type="radio" name="gender" value="othergendere" />other             
                       </td></tr>
+             <tr><td>  <input type=“submit" name=“submit" value=“send"send />
+  <input type=“reset" name=“reset" value=“reset" /> </td></tr>
 />      
           </table>
        </div>
