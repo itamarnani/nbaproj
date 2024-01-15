@@ -22,7 +22,7 @@
          </td>  
          </tr> 
               <tr><td>enter your gender</td></tr>
-              <tr><td><input type="radio" name="gender" value="fenale" />female
+              <tr><td><input type="radio" name="gender" value="female" />female
                   <input type="radio" name="gender" value="male" />male
                   <input type="radio" name="gender" value="othergendere" />other             
                       </td></tr>

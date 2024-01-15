@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="css\StyleSheet1.css" />
     <Content Include="pages\home page .aspx" />
+    <Content Include="pages\JavaScript.js" />
     <Content Include="pages\login.aspx" />
     <Content Include="pages\nbainfo.aspx" />
     <Content Include="pages\the winners in each year.aspx" />
