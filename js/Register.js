@@ -1,9 +1,9 @@
 ﻿function IsValid() {
-    return (IsValidname() && IsValidusername()&&IsValidpassword() && IsValidconfirmpassword() && IsValidemailaddress()  && IsValidlocation() && IsValidgender()) ;
+    return (IsValidname() && IsValidusername()&&IsValidpassword() && IsValidconfirmpassword() && IsValidemailaddress() && IsValidlocation() && IsValidgender()) ;
 }
 function IsValidname() {//בדיקת שם
     var v = document.getElementById("fullname").value;
-    if (v == "") {
+    if (v == "") {s    
         document.getElementById("lable1").innerHTML = "Enter  name";
         return false;
     }
@@ -11,9 +11,9 @@ function IsValidname() {//בדיקת שם
     return true;
 }
 function IsValidusername() {//בדיקת שם משתמש
-    var v = document.getElementById("username").value;
+    var v = document.getElementById("username_signup").value;
     if (v == "") {
-        document.getElementById("lable2").innerHTML = "Enter  name";
+        document.getElementById("lable2").innerHTML = "Enter user name";
         return false;
     }
     document.getElementById("lable2").innerHTML = "";
@@ -76,32 +76,27 @@ function IsValidemailaddress() {//בדיקת אימייל
     return true;
 }
 
-function IsValidlocation() {
-    var v = document.getElementById("location");
-    var options = locationElement.options;
-
+function isvalidlocation() {
+    var v = document.getelementbyid("location");
+    var options = v.options;
+    
     for (var i = 0; i < options.length; i++) {
         if (options[i].selected) {
-            window.alert(options[i].value);
+           return true
         }
     }
+    document.getelementbyid("lable").innerhtml = "enter a location";
 }
 function IsValidgender() {
-    var genderElements = document.getElementsByName("gender");
+    var gender_v = document.getElementsByName("gender");
 
-    for (var i = 0; i <v.length; i++) {
-        if (gender_v[i].checked==true) {
-            v = gender_v[i].value;
-            if (v == null) {
-                document.getElementById("lable7").innerHTML = "you must pick a gender";
-                return false;
-            }
-            else {
-                document.getElementById("lable7").innerHTML = "";
-                return true;
-            }
-        }
-    }   
+    for (var i = 0; i < gender_v.length; i++) {
+        if (gender_v[i].checked == true) {
+            return true; 
+        }   
+    }
+    document.getElementById("lable7").innerHTML = "you must pick a gender";
+    return false;
 }
 
 

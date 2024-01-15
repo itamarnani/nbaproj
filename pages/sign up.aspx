@@ -27,7 +27,7 @@
                              <tr>
 <td><input type="password" id="confirm_password" name="confirm_password" placeholder="confirm password" /></td><td><lable id="lable4" class="lablestyle"></lable></td></tr>
               <tr><td><input type="text" id="email" name="email" placeholder="email" /></td><td><lable id="lable5" class="lablestyle"></lable></td> </tr>
-     <tr> <td>   <Select name="location" id="location">
+     <tr> <td>   <Select name="location" id="location"value="location">
     <option value="israel"> israel</option>
    <option value="usa"> usa</option>
    <option value="europe">europe </option>
