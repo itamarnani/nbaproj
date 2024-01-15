@@ -1,6 +1,24 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="Site1.Master" AutoEventWireup="true" CodeBehind="home page .aspx.cs" Inherits="newnbaproject.NewFolder1.WebForm1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <style type="text/css">
+        #winners{
+            visibility:collapse;
+        }
+        #denver{
+            visibility:collapse;
+        }
+        #info{
+            visibility:collapse;
+        }
+        #okcthunder{
+            visibility:collapse;
+        }
+        #logout{
+            visibility:collapse;
+        }
+        #manager{
+            visibility:collapse;
+        }
     </style>
       
 </asp:Content>
